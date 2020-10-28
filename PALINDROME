@@ -13,7 +13,7 @@ int main() {
     }
 
     // palindrome if orignalN and reversedN are equal
-    if (originalN == reversedN)
+    if (originalN == reversedN)       // if-else loop
         printf("%d is a palindrome.", originalN);
     else
         printf("%d is not a palindrome.", originalN);
