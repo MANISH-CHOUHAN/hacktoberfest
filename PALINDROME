@@ -8,7 +8,7 @@ int main() {
     // reversed integer is stored in reversedN
     while (n != 0) {
         remainder = n % 10;
-        reversedN = reversedN * 10 + remainder;
+        reversedN = reversedN * 10 + remainder; //remainder
         n /= 10;
     }
 
