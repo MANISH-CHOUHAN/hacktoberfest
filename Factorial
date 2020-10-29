@@ -1,4 +1,7 @@
+
 #include <iostream>  //HEADER FILE
+#include <bits/stdc++.h>
+
 using namespace std;  
 int main()            //MAIN DRIVER FOR PROGRAM
 {  
