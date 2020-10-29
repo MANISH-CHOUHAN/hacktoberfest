@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <bits/stdc++.h>
 int main() {
     int n, reversedN = 0, remainder, originalN;
     //ENTER AN INTEGER
