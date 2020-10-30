@@ -13,6 +13,6 @@ int main()
   {    
       fact=fact*i;    
   }    
-  cout<<"Factorial of " <<number<<" is: "<<fact<<endl;  //cout factorial
+  cout<<"Factorial of " <<number<<" is: "<<fact<<endl;  
   return 0;  
 }  
