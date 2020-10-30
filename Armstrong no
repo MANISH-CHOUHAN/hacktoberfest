@@ -4,7 +4,7 @@ int main()
 {  
 int n,r,sum=0,temp;   
 //enter the number
-cout<<"Enter the Number=  ";     //input to the numbers
+cout<<"Enter the Number=  ";     //input the numbers
 cin>>n;                           
 temp=n;    
 while(n>0)    
@@ -14,7 +14,7 @@ sum=sum+(r*r*r);
 n=n/10;    
 }    
 if(temp==sum)    
-cout<<"Armstrong Number."<<endl;    
+cout<<"Armstrong Number."<<endl;    //output
 else    
 cout<<"Not Armstrong Number."<<endl;   
 return 0;  
