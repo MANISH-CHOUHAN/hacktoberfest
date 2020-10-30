@@ -4,7 +4,7 @@ int main()
 {  
 int n,r,sum=0,temp;   
 //enter the number
-cout<<"Enter the Number=  ";     //input
+cout<<"Enter the Number=  ";     //input to the numbers
 cin>>n;                           
 temp=n;    
 while(n>0)    
