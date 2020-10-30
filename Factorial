@@ -13,6 +13,6 @@ int main()            //MAIN DRIVER FOR PROGRAM
   {    
       fact=fact*i;    
   }    
-  cout<<"Factorial of " <<number<<" is: "<<fact<<endl;  
+  cout<<"Factorial of " <<number<<" is: "<<fact<<endl;  //cout factorial
   return 0;  
 }  
