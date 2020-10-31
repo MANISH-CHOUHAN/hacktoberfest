@@ -14,7 +14,7 @@ sum=sum+(r*r*r);
 n=n/10;    
 }    
 if(temp==sum)    
-cout<<"Armstrong Number."<<endl;    //output
+cout<<"Armstrong Number."<<endl;   
 else    
 cout<<"Not Armstrong Number."<<endl;   
 return 0;  
