@@ -12,6 +12,7 @@ int main() {
         reversedN = reversedN * 10 + remainder; 
         n /= 10;
     }
+    //
 
 
     if (originalN == reversedN)       // if-else loop
