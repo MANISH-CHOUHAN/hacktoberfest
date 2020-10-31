@@ -8,7 +8,7 @@ int main()
    int i,fact=1,number; 
    //ENTER ANY NUMBER
   cout<<"Enter any Number: ";    
- cin>>number;    
+ cin>>number;    //input
   for(i=1;i<=number;i++)    
   {    
       fact=fact*i;    
