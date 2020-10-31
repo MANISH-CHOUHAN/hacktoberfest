@@ -1,4 +1,4 @@
-# hacktoberfest
+# Hacktoberfest
 # Hacktoberfest 2020
 
 <img src="https://img.shields.io/github/contributors/MANISH-CHOUHAN/hacktoberfest">  <img src="https://img.shields.io/github/last-commit/MANISH-CHOUHAN/hacktoberfest"> <img src="https://img.shields.io/github/issues-raw/MANISH-CHOUHAN/hacktoberfest"> <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=MANISH-CHOUHAN.hacktoberfest.visitor-badge">
