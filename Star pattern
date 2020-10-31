@@ -1,5 +1,5 @@
 #include <bits/stdc++.h> 
-int main()  
+int main()   //main function
 {  
     int n;  
     printf("Enter the number of rows");  
