@@ -10,7 +10,9 @@ int main()
   m=n/2;  
   for(i = 2; i <= m; i++)   
   {  
-      if(n % i == 0)         
+
+      if(n % i == 0)        
+      if(n % i == 0)      
       {  
           cout<<"Number is not Prime."<<endl;  
           flag=1;  
